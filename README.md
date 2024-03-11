@@ -31,3 +31,11 @@ This is released under the [Attribution-ShareAlike 4.0 International (CC BY-SA 4
 **You are welcome to use this for commercial purposes.**
 
 Please consider contributing back to this project or others to help the open-source hardware community continue to thrive and grow! 
+
+Certifications:
+
+[Open Source Hardware Association](https://certification.oshwa.org/ro000018.html)   
+   
+[![certification-mark-RO000018-wide](https://github.com/GroundStudio/GroundStudio_BME280_3V3_module/assets/77836107/c9685c5d-9a45-40ca-af34-a64d03d9a6bc)
+](https://certification.oshwa.org/ro000018.html)
+
